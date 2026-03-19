@@ -38,6 +38,6 @@ Thumbs.db
 .env
 .env.*
 
-# Codex folder files and dir
+# Codex folder files and directory
 codex-temp/
 AGENTS.md
